@@ -11,4 +11,4 @@ We will observe the distribution of the daily Closing prices, perform some Techn
 ## Data
 The data used in this project contains daily prices of the S&P 500 Index from the years 1983 to 2023.
 
-Originally it is found in .csv format, and we'll mostly look at the daily close price. Some minor transformations will be performed.
+The data is found in .csv format, provided in the file INDEXSP500.csv. We'll mostly look at the daily close price. Some minor transformations will be performed.
