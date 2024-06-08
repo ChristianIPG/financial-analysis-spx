@@ -1,5 +1,4 @@
-# Financial Analysis - Statistically analyzing and predicting the behaviour of the S&P Index
-Analysis and predictions of the S&P 500 Index performance.
+# Financial Analysis - Statistically analyzing and predicting the behaviour of the S&P 500 Index
 
 ## Project Description
 The following project observes historical data on the S&P 500 stock market index, one of the most globally important equity indices including approximately 80% of the total market capitalization of U.S. public companies.
