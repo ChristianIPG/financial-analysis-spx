@@ -1,4 +1,4 @@
-# financial-analysis-spx
+# Financial Analysis - Statistically analyzing and predicting the behaviour of the S&P Index
 Analysis and predictions of the S&P 500 Index performance.
 
 ## Project Description
